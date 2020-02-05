@@ -1,4 +1,4 @@
-# CHC-Digital-Terraform-PSD2
+# Terraform two-tier repo structure 
 
 We are using terraform 
 
